@@ -1,6 +1,6 @@
 public class Demo1 {
     public static void main(String[] args) {
-
+// new line added
         String input = "aaabbbcccddaaaaaaabbbbbbb";
 
         int count = 1;
